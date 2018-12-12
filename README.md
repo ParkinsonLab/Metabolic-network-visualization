@@ -9,6 +9,7 @@ The network is coloured by pathway.  Reactions are circles, and (smaller) diamon
 *Onchocerca volvulus and Loa loa* (by Nirvana Nursimulu)
 
 (1) Full combined metabolic network of both worms.  Coloured by pathways.  Diamonds are reactions, and circles represent metabolites.
+
 (2) Depiction of differences in purine metabolism between both worms.  
 More details in Cotton et al. (2016)  "The genome of Onchocerca volvulus, agent of river blindness." Nature Microbiology. 2:16216.
 
